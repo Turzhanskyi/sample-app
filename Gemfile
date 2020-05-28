@@ -7,7 +7,7 @@ gem 'pg',                         '1.1.4'
 gem 'bootsnap',                   '1.4.4', require: false
 gem 'bootstrap-sass'
 gem 'jbuilder',                   '2.9.1'
-gem 'puma',                       '3.12.4'
+gem 'puma',                       '3.12.6'
 gem 'rails',                      '6.0.0'
 gem 'sass-rails',                 '5.1.0'
 gem 'turbolinks',                 '5.2.0'
